@@ -2,4 +2,4 @@
 
 This is Lab 3 for Jevonte' Defoe.
 
-I tested index.htlm in chrome browser
+I tested index.html in chrome browser
